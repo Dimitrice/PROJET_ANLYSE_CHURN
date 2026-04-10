@@ -57,21 +57,21 @@ PROJET_ANALYSE_CHURN/
 - **RowNumber** : correspond au numéro de l’enregistrement (ligne) et n’a aucun effet sur la sortie.
 - **CustomerId** : contient des valeurs aléatoires et n’a aucun effet sur le départ du client de la banque.
 - **Surname** :  le nom de famille d’un client n’a aucun impact sur sa décision de quitter la banque.
--**CreditScore** : peut avoir un impact sur le churn, car un client ayant un score de crédit plus élevé est moins susceptible de quitter la banque.
--**Geography** :  la localisation d’un client peut influencer sa décision de quitter la banque.
--**Gender** :  il est intéressant d’explorer si le genre joue un rôle dans le départ d’un client de la banque.
--**Age** : cela est certainement pertinent, car les clients plus âgés sont moins susceptibles de quitter leur banque que les plus jeunes.
--**Tenure** : fait référence au nombre d’années pendant lesquelles le client est client de la banque. Normalement, les clients plus âgés sont plus fidèles et moins susceptibles de quitter une banque.
--**Balance** : également un très bon indicateur du churn des clients, car les personnes ayant un solde plus élevé sur leurs comptes sont moins susceptibles de quitter la banque comparées à celles avec des soldes plus bas.
--**NumOfProducts** : fait référence au nombre de produits qu’un client a achetés via la banque.
--**HasCrCard** :  indique si un client possède ou non une carte de crédit. Cette chronique est également pertinente, car les personnes possédant une carte de crédit sont moins susceptibles de quitter la banque.
--**IsActiveMember** : les clients actifs sont moins susceptibles de quitter la banque.
--**EstimatedSalary** : Comme pour l’équilibre, les personnes avec des salaires plus bas sont plus susceptibles de quitter la banque que celles avec des salaires plus élevés.
--**Exited** : que le client ait quitté la banque ou non
--**Complain** :  le client a ou non une plainte.
--**Satisfaction Score** :  Score fourni par le client pour la résolution de sa plainte.
--**Card Type** : type de détention de carte par le client.
--**Points Earned** : les points gagnés par le client en utilisant une carte de crédit.
+- **CreditScore** : peut avoir un impact sur le churn, car un client ayant un score de crédit plus élevé est moins susceptible de quitter la banque.
+- **Geography** :  la localisation d’un client peut influencer sa décision de quitter la banque.
+- **Gender** :  il est intéressant d’explorer si le genre joue un rôle dans le départ d’un client de la banque.
+- **Age** : cela est certainement pertinent, car les clients plus âgés sont moins susceptibles de quitter leur banque que les plus jeunes.
+- **Tenure** : fait référence au nombre d’années pendant lesquelles le client est client de la banque. Normalement, les clients plus âgés sont plus fidèles et moins susceptibles de quitter une banque.
+- **Balance** : également un très bon indicateur du churn des clients, car les personnes ayant un solde plus élevé sur leurs comptes sont moins susceptibles de quitter la banque comparées à celles avec des soldes plus bas.
+- **NumOfProducts** : fait référence au nombre de produits qu’un client a achetés via la banque.
+- **HasCrCard** :  indique si un client possède ou non une carte de crédit. Cette chronique est également pertinente, car les personnes possédant une carte de crédit sont moins susceptibles de quitter la banque.
+- **IsActiveMember** : les clients actifs sont moins susceptibles de quitter la banque.
+- **EstimatedSalary** : Comme pour l’équilibre, les personnes avec des salaires plus bas sont plus susceptibles de quitter la banque que celles avec des salaires plus élevés.
+- **Exited** : que le client ait quitté la banque ou non
+- **Complain** :  le client a ou non une plainte.
+- **Satisfaction Score** :  Score fourni par le client pour la résolution de sa plainte.
+- **Card Type** : type de détention de carte par le client.
+- **Points Earned** : les points gagnés par le client en utilisant une carte de crédit.
 
 ---
 
