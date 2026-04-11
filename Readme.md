@@ -19,6 +19,7 @@ Ce projet porte sur l'analyse exploratoire d'un dataset de churn bancaire compos
 | `Exited` | Binaire (0/1) | 0 = clients restés \| 1 = clients Partis |
 
 | element |  Valeur  |
+|---|---|
 |**Taux_clients_partis global :|20.38%** (2 038 clients sur 10 000) (Taux_clients_partis )|
 
 
