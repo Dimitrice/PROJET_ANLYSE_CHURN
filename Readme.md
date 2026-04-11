@@ -5,8 +5,7 @@
 
 ## Contexte du projet
 
-Ce projet porte sur l'analyse exploratoire (EDA) et la préparation des données
-d'un dataset de churn bancaire composé de **10 000 clients** . L'objectif est d’analyser les facteurs expliquant le départ des clients  à partir d’un dataset bancaire. L’analyse vise à identifier les variables les plus discriminantes afin de mieux comprendre le comportement des clients.
+Ce projet porte sur l'analyse exploratoire d'un dataset de churn bancaire composé de **10 000 clients** . L'objectif est d’analyser les facteurs expliquant le départ des clients  à partir d’un dataset bancaire. L’analyse vise à identifier les variables les plus discriminantes afin de mieux comprendre le comportement des clients.
 
 > **Note importante** : Les 10 000 observations constituent la **population entière** et non un échantillon. Les analyses réalisées sont donc purement descriptives.
 ---
