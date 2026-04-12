@@ -231,13 +231,13 @@ PROJET_ANALYSE_CHURN/
 ---
 
 ## Insights
-- Les clients présentant le plus fort risque de churn sont généralement plus âgés, avec un âge moyen d’environ 45 ans contre 37 ans pour les clients fidèles. Ils disposent également d’un solde bancaire moyen supérieur, avec un écart d’environ +18 000,  et montrent un faible niveau d’engagement dans leur relation avec la banque (inactif).
-- On observe une augmentation significative du taux de churn à mesure que le nombre de produits détenus augmente.
+1- Les clients présentant le plus fort risque de churn sont généralement plus âgés, avec un âge moyen d’environ 45 ans contre 37 ans pour les clients fidèles. Ils disposent également d’un solde bancaire moyen supérieur, avec un écart d’environ +18 000,  et montrent un faible niveau d’engagement dans leur relation avec la banque (inactif).
+2- On observe une augmentation significative du taux de churn à mesure que le nombre de produits détenus augmente.
  Alors que le churn reste limité pour les clients ayant deux produits (7,6 %), il devient très élevé pour ceux en possédant trois (82,7 %) et atteint 100 % pour quatre produits. Cette tendance indique que les clients multi-équipés présentent un risque de départ nettement plus élevé.
-- On n’observe pas de différence significative entre la proportion de clients ayant quitté la banque et ceux étant restés après la résolution de leur problème (19,6 % contre 21,8 %). Deux hypothèses peuvent expliquer ce résultat : soit les clients quittent la banque sans exprimer leur insatisfaction, soit la mesure de la satisfaction n’est pas suffisamment pertinente ou correctement formulée pour capturer le ressenti réel des clients.
-- Les clients basés en Allemagne affichent un taux de churn significativement plus élevé, environ deux fois supérieur à celui observé en France et en Espagne. Cette différence suggère soit une pression concurrentielle plus forte sur ce marché, soit des attentes client différentes, potentiellement moins bien couvertes par l’offre de la banque. 
-- les femmes ont 70% plus de chance de quitter la banque par rapport aux hommes. Cela suggère que la banque ne répond pas certainement aux besoins spécifiques d'une partie importante de sa clientèle féminine.
-- les client inactif on deux plus de chance de quitter la banque par rapport au autres actif 
+3- On n’observe pas de différence significative entre la proportion de clients ayant quitté la banque et ceux étant restés après la résolution de leur problème (19,6 % contre 21,8 %). Deux hypothèses peuvent expliquer ce résultat : soit les clients quittent la banque sans exprimer leur insatisfaction, soit la mesure de la satisfaction n’est pas suffisamment pertinente ou correctement formulée pour capturer le ressenti réel des clients.
+4- Les clients basés en Allemagne affichent un taux de churn significativement plus élevé, environ deux fois supérieur à celui observé en France et en Espagne. Cette différence suggère soit une pression concurrentielle plus forte sur ce marché, soit des attentes client différentes, potentiellement moins bien couvertes par l’offre de la banque. 
+5- les femmes ont 70% plus de chance de quitter la banque par rapport aux hommes. Cela suggère que la banque ne répond pas certainement aux besoins spécifiques d'une partie importante de sa clientèle féminine.
+6- les client inactif on deux plus de chance de quitter la banque par rapport au autres actif 
 ### Resumé des Insights :
 La banque perd principalement des clients matures et aisés non pas parce qu'ils sont insatisfaits au sens déclaratif, mais parce qu'ils ne se sentent pas suffisamment bien servis pour leur profil — ce qui se traduit par une inactivité croissante puis un départ, surtout en Allemagne et chez les femmes.
 ## Auteur
